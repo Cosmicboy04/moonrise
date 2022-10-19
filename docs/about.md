@@ -1,6 +1,6 @@
 ---
 layout: page
-navname: About
+navname: https://web.roblox.com/groups/15923000/Meta-Games-Inc#!/about
 ---
 
 # {{ site.serverName }}
